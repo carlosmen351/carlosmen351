@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**carlosmen351/carlosmen351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack Web Developer specialized in JavaScript with experience in digital marketing.
 
-Here are some ideas to get you started:
+📊 I love analyzing trends, solving problems and creating strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I am a technology enthusiast with the idea of ​​never stopping learning.
+
+🌱 I’m currently learning in Platzi
+
+💻 I have experience with Python, Databases and a variety of frameWorks and libraries
+
+🌏 I am analytical, I like to work in a team and learn languages.
+
+📲 Contact me at my email contacto@menesescarlos.com or leave a message.
