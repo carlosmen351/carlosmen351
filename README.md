@@ -10,6 +10,6 @@ I am a full-stack Web Developer specialized in JavaScript with experience in dig
 
 💻 I have experience with Python, Databases and a variety of frameWorks and libraries
 
-🌏 I am analytical, I like to work in a team and learn languages.
+🌏 I am analytic, I like to work in a team ad learn language
 
 📲 Contact me at my email contacto@menesescarlos.com or leave a message.
