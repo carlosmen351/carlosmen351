@@ -10,7 +10,7 @@
 
 📚 I am a technology enthusiast with the idea of ​​never stopping learning.
 
-🌱 I’m currently learning in Platzi
+🌱 I’m currently learning in Platzi Master <img src="https://img.shields.io/badge/Platzi%20Master-C8-95ca3e">
 
 💻 I have experience working on projects whit Agile methodologies SCRUM.
 
