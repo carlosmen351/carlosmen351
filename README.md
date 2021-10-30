@@ -1,4 +1,6 @@
-Hi there 👋
+# Hi there, I am Carlos 🍺
+
+<img src= "https://img.shields.io/badge/Platzi%20Master-C8-95ca3e" />
 
 I am a full-stack Web Developer specialized in JavaScript with experience in digital marketing.
 
