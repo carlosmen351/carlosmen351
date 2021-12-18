@@ -4,7 +4,7 @@
 
 ## About Me.
 
-♟ I'm a full-stack Web Developer specialized in JavaScript, I enjoy working whit CSS and UX & UI.
+♟ I'm a Web Developer specialized in JavaScript with frame  frameworks, I enjoy working whit CSS and UX & UI.
 
 📊 I love asolving problems whit code.
 
