@@ -4,13 +4,15 @@
 
 ## About Me.
 
-♟ I'm a Web Developer specialized in JavaScript with frame  frameworks, I enjoy working whit CSS and UX & UI.
+♟ I am a web developer with 3 years of experience, my specialty is JavaScript with its frameworks, I know how to use technologies like React.js and Next. 
+  
+⚖ I enjoy making code in css and its pre-processors, as well as working on the interface design with tools like figma or addobe XD.
 
-📊 I love asolving problems whit code.
+📊 I love to solve problems with code, always planning the problem before making the code, using problem solving patterns like, “design thinking”, and for the code the “object-    oriented” paradigm.
 
-📚 I am a technology enthusiast with the idea of ​​never stopping learning.
+📚 I consider myself as a technology enthusiast, self-taught with the conviction to ¡never stop learning!.
 
-🌱 I’m currently learning in Platzi Master <img src="https://img.shields.io/badge/Platzi%20Master-C8-95ca3e">
+🌱 I am currently a platzi student since 2019 and from platzi master (Elite program) since 2021 <img src="https://img.shields.io/badge/Platzi%20Master-C8-95ca3e">
 
 💻 I have experience working on projects whit Agile methodologies SCRUM.
 
