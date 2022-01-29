@@ -30,4 +30,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmen351)](https://github.com/carlosmen351/github-readme-stats)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmen351&show_icons=true&theme=radical)](https://github.com/carlosmen351/github-readme-stats)
