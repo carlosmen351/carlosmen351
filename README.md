@@ -1,6 +1,6 @@
 # Hi there, I am Carlos 🍺
 
-<img src= "https://media-exp1.licdn.com/dms/image/C5616AQEWdfURx0MbuQ/profile-displaybackgroundimage-shrink_350_1400/0/1623995651901?e=1640822400&v=beta&t=GHL34RG9mh89DGtx-JXV4187Ys0pC7CRf-khJfeCVY0" />
+<img src= "https://menesescarlos.com/2a1ea928f08ce6efa1d6.png" />
 
 ## About Me.
 
@@ -23,7 +23,7 @@
 * My web  website in [Carlos Meneses](https://menesescarlos.com).
 * Talking and sharing in [Twitter](https://https://twitter.com/carlosmen351).
 * know a little more about my work in my [Linkedin](https://www.linkedin.com/in/carlosmen351).
-* And contact me at my email contacto@menesescarlos.com or leave a message.
+* And contact me at my email carlosamenesesc@gmail.com or leave a message.
 
 ## Some technologies I use:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
