@@ -4,7 +4,7 @@
 
 ## About Me.
 
-♟ I am a web developer with 3 years of experience, my specialty is JavaScript with its frameworks, I know how to use technologies like React.js and Next. 
+♟ I am a web developer with 5 years of experience, my specialty is JavaScript with its frameworks, I know how to use technologies like React.js and Next. 
   
 ⚖ I enjoy making code in css and its pre-processors, as well as working on the interface design with tools like figma or addobe XD.
 
