@@ -20,7 +20,7 @@
 
 ## Find me around the web 🌎:
 
-* My web  website in [Carlos Meneses](https://carlosmeneses.sev).
+* My web  website in [Carlos Meneses](https://carlosmeneses.dev).
 * Talking and sharing in [Twitter](https://https://twitter.com/carlosmen351).
 * know a little more about my work in my [Linkedin](https://www.linkedin.com/in/carlosmen351).
 * And contact me at my email carlosamenesesc@gmail.com or leave a message.
