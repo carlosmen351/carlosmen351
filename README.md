@@ -4,7 +4,7 @@
 
 ## About Me.
 
-♟ I am a web developer with 5 years of experience, my specialty is JavaScript with its frameworks, I know how to use technologies like React.js and Next. 
+♟ I am a web developer with +6 years of experience, my specialty is JavaScript with React.js and Next. 
   
 ⚖ I enjoy making code in css and its pre-processors, as well as working on the interface design with tools like figma or addobe XD.
 
@@ -20,7 +20,7 @@
 
 ## Find me around the web 🌎:
 
-* My web  website in [Carlos Meneses](https://menesescarlos.com).
+* My web  website in [Carlos Meneses](https://carlosmeneses.sev).
 * Talking and sharing in [Twitter](https://https://twitter.com/carlosmen351).
 * know a little more about my work in my [Linkedin](https://www.linkedin.com/in/carlosmen351).
 * And contact me at my email carlosamenesesc@gmail.com or leave a message.
