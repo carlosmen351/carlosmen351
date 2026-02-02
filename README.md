@@ -12,8 +12,6 @@
 
 📚 I consider myself as a technology enthusiast, self-taught with the conviction to ¡never stop learning!.
 
-🌱 I am currently a platzi student since 2019 and from platzi master (Elite program) since 2021 <img src="https://img.shields.io/badge/Platzi%20Master-C8-95ca3e">
-
 💻 I have experience working on projects whit Agile methodologies SCRUM.
 
 
